@@ -20,7 +20,7 @@
             <div class="credit-card-form">
                 <div class="field">
                     <label for="name">{{ trans.name.label }}</label>
-                    <input maxlength="20"
+                    <input maxlength="30"
                         name="name"
                         id="name"
                         type="text"
