@@ -1,10 +1,7 @@
 .DS_Store
 node_modules
 docs/.vuepress/dist
-src
-babel.config.js
-card.gif
-package-lock.json
+/dist
 
 # local env files
 .env.local
